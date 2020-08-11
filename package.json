@@ -1,19 +1,35 @@
 {
-  "name": "y",
+  "name": "react-native-google-places",
+  "description": "iOS/Android Google Places Widgets (Autocomplete Modals) and API Services for React Native Apps",
+  "main": "index.js",
+  "author": "Hinh Dinh",
   "version": "1.0.0",
-  "description": "",
-  "main": "src/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/HinHin86197/react-native-google-places.git"
   },
-  "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/HinHin86197/react-native-google-places/issues"
   },
-  "homepage": "https://github.com/HinHin86197/react-native-google-places#readme"
+  "types": "index.d.ts",
+  "homepage": "https://github.com/HinHin86197/react-native-google-places#readme",
+  "keywords": [
+    "react",
+    "react-native",
+    "react-component",
+    "map",
+    "places",
+    "google-places",
+    "Google Places API",
+    "autocomplete",
+    "ios",
+    "android"
+  ],
+  "peerDependencies": {
+    "react": ">=15.4.0 || ^16.0.0-alpha",
+    "react-native": ">=0.40.0"
+  },
+  "devDependencies": {}
 }
